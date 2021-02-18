@@ -1,7 +1,7 @@
 # Grey Hack save editor
 ### _Grey Hack singleplayer community save editor_
 Grey Hack save editor is a simple program I made for the community which lets you customize your save file to your liking.
-For now only bank accounts can be modified but knows what future updates might bring.
+For now only bank accounts can be modified but who knows what future updates might bring.
 
 [![](https://cdn.discordapp.com/attachments/780723099863613450/811962452669104178/unknown.png)](https://travis-ci.org/joemccann/dillinger)
 ### Disclaimer
