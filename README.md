@@ -17,8 +17,8 @@ I made this program because I want to use singleplayer as a "playground" for mul
 Just download, press inject and done!
 
 ### Credits
-EntitySeaker#3321 the creator and maintaner of this program.
-V.#2163 and fera282828 for testing the program on windows.
+EntitySeaker#3321 the creator and maintainer of this program.
+Special thanks to V.#2163 and fera282828 for testing the program on windows.
 
 ### FAQ
 Q) My antivirus program detects this program as a virus is this program safe?       
