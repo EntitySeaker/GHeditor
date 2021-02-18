@@ -5,7 +5,7 @@ For now only bank accounts can be modified but knows what future updates might b
 
 [![](https://cdn.discordapp.com/attachments/780723099863613450/811962452669104178/unknown.png)](https://travis-ci.org/joemccann/dillinger)
 ### Disclaimer
-I made this program because I want to use singleplayer as a "playground" for multiplayer. I don't want to go through the trouble of hacking banks before I can test my scripts effectively. I told a view people I was working on this program and they wanted to use it too so I diceded to make it public. I DID NOT make this program with the intend to cheat nor do I encourage the use of cheats, use this program only if you want to test things out in singleplayer DO NOT use this to cheat in singleplayer because the game will be very boring if you do.
+I made this program because I want to use singleplayer as a "playground" for multiplayer. I don't want to go through the trouble of hacking banks before I can test my scripts effectively. I told a few people I was working on this program and they wanted to use it too so I decided to make it public. I DID NOT make this program with the intend to cheat nor do I encourage the use of cheats, use this program only if you want to test things out in singleplayer DO NOT use this to cheat in singleplayer because the game will be very boring if you do.
 
 ### Features
 - A nice looking gui
