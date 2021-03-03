@@ -9,9 +9,8 @@ I made this program because I want to use singleplayer as a "playground" for mul
 
 ### Features
 - A nice looking gui
-- The ability to modify bank accounts
+- The ability to modify bank accounts while playing the game
 - Automatic database finder
-- The ability to modify the game while playing
 
 ### Installation
 Just download from https://github.com/EntitySeaker/GHeditor/releases, press inject and done!
