@@ -14,7 +14,7 @@ I made this program because I want to use singleplayer as a "playground" for mul
 - The ability to modify the game while playing
 
 ### Installation
-Just download, press inject and done!
+Just download from https://github.com/EntitySeaker/GHeditor/releases, press inject and done!
 
 ### Credits
 EntitySeaker#3321 the creator and maintainer of this program.
