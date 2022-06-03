@@ -20,7 +20,8 @@ EntitySeaker#3321 the creator and maintainer of this program.
 Special thanks to V.#2163 and fera282828 for testing the program on windows.
 
 ### FAQ
-Q) My antivirus program detects this program as a virus is this program safe?       
-A) Yes this program is safe to use it gives false positives because I didn't sign this executable but mostly because of the bootloader of the compiler.    
-Q) Although this is not a cheating program will I banned if I use this?    
+Q) My antivirus program detects this program as a virus is this program safe?
+A) Yes this program is safe to use it gives false positives because I didn't sign this executable but mostly because of the bootloader of the compiler.
+Q) Although this is not a cheating program will I banned if I use this?
 A) Although the GreyHack devs don't support this program you won't be banned if you use this, this is not a cheating program it's a save editor which lets you modify your singleplayer data.
+
