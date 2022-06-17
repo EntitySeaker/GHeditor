@@ -12,7 +12,7 @@ I made this program because I want to use singleplayer as a "playground" for mul
 - Automatic database finder
 
 ### Installation
-Just download from https://github.com/EntitySeaker/GHeditor/releases, press inject and done!
+Just download from https://github.com/EntitySeaker/GHeditor/releases, execute and done!
 
 ### Credits
 Volk#3321 the creator and maintainer of this program.<br>
