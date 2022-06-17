@@ -20,7 +20,7 @@ Special thanks to V.#2163 for testing the program on windows.
 
 ### FAQ
 Q) My antivirus program detects this program as a virus is this program safe?<br>
-A) Yes this program is safe to use it gives false positives because I didn't sign this executable but mostly because of the bootloader of the compiler.<br>
+A) Yes this program is safe to use it gives false positives because I didn't sign this executable, but mostly because of the of the compiler.<br>
 Q) Although this is not a cheating program will I banned if I use this?<br>
 A) Although the GreyHack devs don't support this program you won't be banned if you use this, this is not a cheating program it's a save editor which lets you modify your singleplayer data.
 
